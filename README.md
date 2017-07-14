@@ -1,3 +1,3 @@
 # CustomSegmentedControl
 
-https://github.com/SeRcCaN/CustomSegmentedControl/blob/master/CustomSc.gif
+![Alt Text](https://github.com/SeRcCaN/CustomSegmentedControl/blob/master/CustomSc.gif)
